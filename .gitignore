@@ -1,0 +1,12 @@
+packages/*
+!packages/.gitkeep
+
+distros/*
+!distros/.gitkeep
+
+*.msixbundle
+*.appx
+*.msi
+*.tar
+*.vhdx
+*.zip
